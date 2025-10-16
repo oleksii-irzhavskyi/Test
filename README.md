@@ -107,8 +107,8 @@ static let wall: UInt32     = 1 << 5  // Стіна
 Розроблено як тестове завдання для демонстрації навичок розробки iOS додатків з використанням сучасних технологій SwiftUI та SpriteKit.
 
 
-
-<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 11 14 43" src="https://github.com/user-attachments/assets/13073ac4-dba3-49b6-a17b-48616f222c42" />
-<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 11 14 34" src="https://github.com/user-attachments/assets/11631761-a22b-4fe6-8320-90ab57a0a773" />
-<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 11 14 28" src="https://github.com/user-attachments/assets/9e26b420-6d9d-4fe0-aa31-1c742ff3bf12" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 11 49 14" src="https://github.com/user-attachments/assets/4332d004-aec2-4fdc-b973-441529b32780" />
+<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 12 30 47" src="https://github.com/user-attachments/assets/26560f2b-f2f0-42f3-ad5d-86bd2f70ea72" />
+<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 12 30 37" src="https://github.com/user-attachments/assets/62ec8b72-8d38-412c-93ef-e627201a908e" />
+<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 12 30 31" src="https://github.com/user-attachments/assets/857c5671-eba6-42f7-be53-d9e155266257" />
+<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 12 30 27" src="https://github.com/user-attachments/assets/649634f4-46b9-4c92-8dcd-c3f93c2e8599" />
+<img width="330" height="717" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-16 at 12 30 21" src="https://github.com/user-attachments/assets/79ad77e8-0cfe-4c76-922e-f2405e87d8d2" />
